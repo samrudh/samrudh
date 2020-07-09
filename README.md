@@ -22,4 +22,6 @@ Enjoy teaching ML to beginners. Played a key role in driving the AI/ML club at D
 Academic background in statistical processing of Image/Video data. Loved to play with Raspberry Pi and Arduino boards during university time. 
 
 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/samrudha-kelkar-data-science/)
+
+
 Follow my [blog on Medium](https://medium.com/tech-that-works)
