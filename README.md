@@ -26,4 +26,4 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/samrudha-kelka
 
 Follow my [blog on Medium](https://medium.com/tech-that-works)
 
-[![Views](http://hits.dwyl.com/samrudh/samrudh/samrudh.svg)](http://hits.dwyl.com/samrudh/samrudh/samrudh)
+Views on my profile since Jul'2020: [![Views](http://hits.dwyl.com/samrudh/samrudh/samrudh.svg)](http://hits.dwyl.com/samrudh/samrudh/samrudh)
