@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Want to know more about me? 
-Tired of reading below paragraphs?
+Tired of reading the long paragraphs below?
 Talk to my [Bot](https://samrudhabot.herokuapp.com/) :robot:
 Ping me on LinkedIn if the bot does not work. Sometimes, I switch off the backend NLP engine to optimize the cloud costs. 
 
