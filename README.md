@@ -4,7 +4,7 @@
 Want to know more about me?\ 
 Tired of reading the long paragraphs below?\
 Talk to my [Bot](https://samrudhabot.herokuapp.com/) :robot:\
-(In case it doesn't work, dp ping me on LinkedIn. Sometimes, I switch off the backend NLP engine to optimize the cloud costs) 
+(In case it doesn't work, do ping me on [LinkedIn](https://www.linkedin.com/in/samrudha-kelkar-data-science/). Many times I switch off the backend NLP engine to optimize the cloud costs) 
 
 \
 Samrudha, an engineer/builder at heart, is working on solving interesting data science problems. Active in Computer Vision and NLP.  Professional work includes work on custom NER models, linear optimization, real-time ad-tech bidding engines, time series forecasting, probabilistic models, IoT solution development.  Experience of deployable data science applications using modern data pipelines.
