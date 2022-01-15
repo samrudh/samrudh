@@ -17,8 +17,8 @@ Want to connect? you can reach out to me on [LinkedIn](https://www.linkedin.com/
 
 \
 \
+Learn more about [me](https://linktr.ee/samrudha)
 Follow my [blog on Medium](https://medium.com/tech-that-works)
-Recently I wrote a blog [post](https://samrudha.medium.com/creating-a-pandemic-proof-ipl-schedule-in-python-97ef22a274e3) about using optimization techniques for scheduling Indian Premier League matches. 
 
 
 
