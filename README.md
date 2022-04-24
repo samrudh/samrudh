@@ -7,7 +7,7 @@ Talk to my [Bot](https://samrudhabot.herokuapp.com/) :robot:\
 (In case it doesn't work, do ping me on [LinkedIn](https://www.linkedin.com/in/samrudha-kelkar-data-science/). Many times I switch off the backend NLP engine to optimize the cloud costs) 
 
 \
-Samrudha, an engineer/builder at heart, is working on solving interesting data science problems. Active in Computer Vision and NLP.  Professional work includes work on custom NER models, linear optimization, real-time ad-tech bidding engines, time series forecasting, probabilistic models, IoT solution development.  Experience of deployable data science applications using modern data pipelines.
+Samrudha, an engineer/builder at heart, is working on solving interesting data science problems.  Professional work includes work on custom NER models, linear optimization, real-time ad-tech bidding engines, time series forecasting, probabilistic models, IoT solution development.  Experience of deployable data science applications using modern data pipelines.
 
 Enjoy teaching ML to beginners. Played a key role in driving the AI/ML club at DBS Bank and the SpiceTalks at the current employer, SpiceWorks. Passionate about open source and writing tech blogs. 
 
