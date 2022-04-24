@@ -18,6 +18,7 @@ Want to connect? you can reach out to me on [LinkedIn](https://www.linkedin.com/
 \
 \
 Learn more about [me](https://linktr.ee/samrudha)
+\
 Follow my [blog on Medium](https://medium.com/tech-that-works)
 
 
