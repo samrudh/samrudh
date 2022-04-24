@@ -1,8 +1,8 @@
 ### Hey Hello 👋👋
 
 
-Want to know more about me?\ 
-Tired of reading the long paragraphs below?\
+Want to know more about me?
+Tired of reading the long paragraphs below?
 Talk to my [Bot](https://samrudhabot.herokuapp.com/) :robot:\
 (In case it doesn't work, do ping me on [LinkedIn](https://www.linkedin.com/in/samrudha-kelkar-data-science/). Many times I switch off the backend NLP engine to optimize the cloud costs) 
 
