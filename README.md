@@ -9,7 +9,7 @@ Talk to my [Bot](https://samrudhabot.herokuapp.com/) :robot:\
 \
 Samrudha, an engineer/builder at heart, is working on solving interesting data science problems.  Professional work includes work on custom NER models, linear optimization, real-time ad-tech bidding engines, time series forecasting, probabilistic models, IoT solution development.  Experience of deployable data science applications using modern data pipelines.
 
-Enjoy teaching ML to beginners. Played a key role in driving the AI/ML club at DBS Bank and the SpiceTalks at the current employer, SpiceWorks. Passionate about open source and writing tech blogs. 
+Enjoy teaching ML to beginners. Played a key role in driving the AI/ML club at DBS Bank and the SpiceTalks at SpiceWorks. Passionate about open source and writing tech blogs. 
 
 Academic background in statistical processing of Image/Video data. Loved to play with Raspberry Pi and Arduino boards during university time. 
 
