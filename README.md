@@ -1,7 +1,7 @@
 ### Hey Hello 👋👋
 
 
-Want to know my recent project? Find it [here]([how](https://marathi-poem-search.de.r.appspot.com/)) multilingual embeddings help search songs
+Want to know my recent project? Find it [here](https://marathi-poem-search.de.r.appspot.com/)) multilingual embeddings help search songs
 (In case it doesn't work, do ping me on [LinkedIn](https://www.linkedin.com/in/samrudha-kelkar-data-science/). Many times I switch off the backend NLP engine to optimize the cloud costs) 
 
 \
